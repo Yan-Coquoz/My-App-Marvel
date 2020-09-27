@@ -1,7 +1,11 @@
 # My-App-Marvel
 - Première App React
 - Mise en application de la formation Mike Codeur sur React en Entreprise
-- stack => Gatsby : gatsby new gatsby-casper https://github.com/scttcper/gatsby-casper
+- stack =>
+autre projet:
+(stack => Gatsby : npm install -g gatsby-cli
+gatsby new gatsby-starter-cv https://github.com/santosfrancisco/gatsby-starter-cv)
+
 
 - UX => react bootstrap
 
